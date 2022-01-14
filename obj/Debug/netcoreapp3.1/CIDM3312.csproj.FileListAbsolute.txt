@@ -1,0 +1,13 @@
+F:\CIDM3312\bin\Debug\netcoreapp3.1\CIDM3312.exe
+F:\CIDM3312\bin\Debug\netcoreapp3.1\CIDM3312.deps.json
+F:\CIDM3312\bin\Debug\netcoreapp3.1\CIDM3312.runtimeconfig.json
+F:\CIDM3312\bin\Debug\netcoreapp3.1\CIDM3312.runtimeconfig.dev.json
+F:\CIDM3312\bin\Debug\netcoreapp3.1\CIDM3312.dll
+F:\CIDM3312\bin\Debug\netcoreapp3.1\CIDM3312.pdb
+F:\CIDM3312\obj\Debug\netcoreapp3.1\CIDM3312.csprojAssemblyReference.cache
+F:\CIDM3312\obj\Debug\netcoreapp3.1\CIDM3312.AssemblyInfoInputs.cache
+F:\CIDM3312\obj\Debug\netcoreapp3.1\CIDM3312.AssemblyInfo.cs
+F:\CIDM3312\obj\Debug\netcoreapp3.1\CIDM3312.csproj.CoreCompileInputs.cache
+F:\CIDM3312\obj\Debug\netcoreapp3.1\CIDM3312.dll
+F:\CIDM3312\obj\Debug\netcoreapp3.1\CIDM3312.pdb
+F:\CIDM3312\obj\Debug\netcoreapp3.1\CIDM3312.genruntimeconfig.cache
